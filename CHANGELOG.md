@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.11.1"></a>
+## [1.11.1](https://github.com/react-mdl/react-mdl/compare/v1.11.0...v1.11.1) (2019-07-31)
+
+
+
 <a name="1.11.0"></a>
 # [1.11.0](https://github.com/tleunen/react-mdl/compare/v1.10.3...v1.11.0) (2017-11-20)
 
